@@ -5,6 +5,8 @@
 
 ## My name is Pedro Bertasso
 
+(Python | Django | SQL | Java | Spring Boot | HTML | CSS ) 🚀
+
 - 👩‍💻 Analista de Processos
 - 🎓 System Analysis Student
 - 🌐 Passionate about backend development
