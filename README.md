@@ -5,9 +5,9 @@
 
 ## My name is Pedro Bertasso
 
-(Java | Spring Boot | SQL | Python | HTML | CSS) 🚀
+(Java | Spring | SQL | HTML | CSS) 🚀
 
-- 👩‍💻 Analista de Processos
+- 👩‍💻 Processes Analyst
 - 🎓 System Analysis Student
 - 🌐 Passionate about backend development
 
