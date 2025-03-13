@@ -5,12 +5,12 @@
 
 ## My name is Pedro Bertasso
 
-- I’m currently learning **Java, SQL and Cloud Computing.**
+- I’m currently learning **Java, Cloud and Microsservices.**
 
 (Java | Spring | SQL | HTML | CSS) 🚀
 
-- 👩‍💻 Processes Analyst
-- 🎓 System Analysis Student
+- 👩‍💻 Fullstack Developer
+- 🎓 Bachelor in System Analysis and Development
 - 🌐 Passionate about backend development
 
 
